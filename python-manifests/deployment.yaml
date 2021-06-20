@@ -10,6 +10,6 @@ spec:
   project: default
   source:
     path: python-manifests
-    repoUrl: https://github.com/fasatrix/argocd-demo
-    targetRevison: HEAD
+    repoURL: https://github.com/fasatrix/argocd-demo
+    targetRevision: HEAD
   syncPolicy: {}
